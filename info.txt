@@ -24,3 +24,32 @@
 ---
 
 CRUD — акроним, обозначающий четыре базовые функции, используемые при работе с базами данных: создание, чтение, обновление, удаление.
+
+--- --- ---
+
+Class is a description of objects
+An object is an installation (mapping) of a class in memory
+
+---
+
+Object-oriented programming...
+
+It is divided into 3 main principles (into 3 paradigms):
+
+1) Encapsulation.
+2) Inheritance
+3) Polymorphism
+    3.1) Parametric Polymorphism True
+    3.2) Ad-hoc Polymorphism | Imaginary
+
+---
+
+Interactions between classes: composition, aggregation
+
+Composition is when class A and class B 'live' only because of class C
+
+Aggregation is when class A and class B 'live' only because of class C, but there's another class D that interacts with class C but doesn't depend on it, that is, if class C doesn't exist, then classes A and B are also absent, but not class D - it doesn't care :)
+
+---
+
+CRUD is an acronym that stands for the four basic functions used when working with databases: create, read, update, delete.
